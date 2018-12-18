@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\VerbanacTeoSystem.IO\VerbanacTeoSystem.IO\obj\Debug\VerbanacTeoSystem.IO.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\VerbanacTeoSystem.IO\VerbanacTeoSystem.IO\obj\Debug\VerbanacTeoSystem.IO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\VerbanacTeoSystem.IO\VerbanacTeoSystem.IO\bin\Debug\VerbanacTeoSystem.IO.exe.config
+C:\Users\Admin\source\repos\VerbanacTeoSystem.IO\VerbanacTeoSystem.IO\bin\Debug\VerbanacTeoSystem.IO.exe
+C:\Users\Admin\source\repos\VerbanacTeoSystem.IO\VerbanacTeoSystem.IO\bin\Debug\VerbanacTeoSystem.IO.pdb
+C:\Users\Admin\source\repos\VerbanacTeoSystem.IO\VerbanacTeoSystem.IO\obj\Debug\VerbanacTeoSystem.IO.exe
+C:\Users\Admin\source\repos\VerbanacTeoSystem.IO\VerbanacTeoSystem.IO\obj\Debug\VerbanacTeoSystem.IO.pdb
